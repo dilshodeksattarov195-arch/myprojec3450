@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsverify",
+        "uuid": 19927200,
+        "checksum": "gu99o"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
